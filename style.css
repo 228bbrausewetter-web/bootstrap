@@ -35,8 +35,17 @@
   background-color: rgb(17, 0, 255); 
   color:rgb(247, 247, 242);
 }
-
-
+.page3{
+  text-align: center;
+  background-color: navy;
+  color:beige;
+}
+.modal-body{
+  color: black;
+}
+.modal-title{
+  color: black;
+}
 
 
 
